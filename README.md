@@ -6,7 +6,7 @@ This assignment is similar to the previous assignment. Start by logging into Git
 https://github.com/LowellSampleClass/OriginalDesign  
 
 Now, modify the Java code in the `OriginalDesign.pde` file to create your own design using the Processing graphics functions. Your program should use a variety of the Processing graphics functions. You will also
-define four functions:
+define four functions:  
 `void setup()`  
 `void draw()`  
 and at least two of your own 
