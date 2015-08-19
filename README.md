@@ -19,5 +19,5 @@ Samples of Student Work
 [Mina](http://minataur.github.io/OriginalDesign/)  
 [Erika](http://bekutaa.github.io/OriginalDesign/)  
 [Michel](http://limichel.github.io/OriginalDesign/)  
-[Gideon](http://limichel.github.io/OriginalDesign/)  
+[Gideon](http://giteon.github.io/OriginalDesign/)  
 [Kristen](http://kris-10.github.io/OriginalDesign/)  
