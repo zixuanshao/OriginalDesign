@@ -18,6 +18,6 @@ Samples of Student Work
 [Eric](http://ericheung1231.github.io/OriginalDesign/)     
 [Mina](http://minataur.github.io/OriginalDesign/)  
 [Erika](http://bekutaa.github.io/OriginalDesign/)  
-[Michel](http://limichel.github.io/OriginalDesign/)
+[Michel](http://limichel.github.io/OriginalDesign/)  
 [Gideon](http://limichel.github.io/OriginalDesign/)  
 [Kristen](http://kris-10.github.io/OriginalDesign/)  
