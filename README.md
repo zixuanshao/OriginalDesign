@@ -11,7 +11,7 @@ define four functions:
 `void draw()`  
 and at least two of your own 
 
-You will also need to modify `index.html` to personalize the title, header and footer. Have fun and be creative! Your design doesn't have to look like anyone else's. Click on the links below to see samples of other students work. Submit the link to your finished program in the drop box for this assignment.
+You will also need to modify `index.html` to personalize the title, header and footer. Have fun and be creative! Your design doesn't have to look like anyone else's. Click on the links below to see samples of other students work. Submit the link to your finished program in the drop box for this assignment by choosing *Submit Locker* and adding the link to your locker.
 
 Samples of Student Work
 -----------------------
