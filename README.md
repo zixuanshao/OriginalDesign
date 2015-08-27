@@ -13,7 +13,10 @@ You will also need to modify `index.html` to personalize the title, header and f
 
 Samples of Student Work
 -----------------------
+[Anya](http://anyacakes.github.io/OriginalDesign/)  
+[Kevin](http://oohklim.github.io/OriginalDesign/)  
 [Aliya](http://aliyachambless.github.io/OriginalDesign/)  
+[Jimmy](http://furiouspenguins.github.io/OriginalDesign/)  
 [Andy](http://anonymous001.github.io/OriginalDesign/)  
 [Elston](http://458elma.github.io/OriginalDesign/)  
 [Theo](http://awesomestickman.github.io/OriginalDesign/)  
