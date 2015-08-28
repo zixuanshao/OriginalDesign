@@ -13,6 +13,20 @@ You will also need to modify `index.html` to personalize the title, header and f
 
 Samples of Student Work
 -----------------------
+[Charles](http://chadvincula.github.io/OriginalDesign/)  
+[Brandi](http://brw1221.github.io/OriginalDesign/)  
+[Eric](http://eryup.github.io/OriginalDesign/)  
+[Tiger](http://tigerrlao.github.io/OriginalDesign/)  
+[Rebecca](http://rebeckur.github.io/OriginalDesign/)  
+[Lawrence](http://shakaking.github.io/OriginalDesign/)  
+[Elliott](http://elliottdebruin.github.io/OriginalDesign/)  
+[Stephen](http://stephendoes.github.io/OriginalDesign/)  
+[Andrew](http://andrewtheo.github.io/OriginalDesign/)  
+[Daniel](http://donutdaniel.github.io/OriginalDesign/)  
+[Ryan](http://ryanjacko.github.io/OriginalDesign/)  
+[Reesa](http://aljini.github.io/OriginalDesign/)  
+[Esther](http://elam2016.github.io/OriginalDesign/)  
+[Leif](http://leifmorgan.github.io/OriginalDesign/)  
 [Eva](http://caieva21.github.io/OriginalDesign/)  
 [Tian](https://tianlunlee.github.io/OriginalDesign/)  
 [Brian](http://btx123.github.io/OriginalDesign/)  
@@ -27,9 +41,4 @@ Samples of Student Work
 [Alexander](http://alzhu1.github.io/OriginalDesign/)  
 [Raul](http://raulrosen.github.io/OriginalDesign/)  
 [Edmund](http://firework999363.github.io/OriginalDesign/)  
-[Eric](http://ericheung1231.github.io/OriginalDesign/)     
-[Mina](http://minataur.github.io/OriginalDesign/)  
-[Erika](http://bekutaa.github.io/OriginalDesign/)  
-[Michel](http://limichel.github.io/OriginalDesign/)  
-[Gideon](http://limichel.github.io/OriginalDesign/)  
-[Kristen](http://kris-10.github.io/OriginalDesign/)   
+
