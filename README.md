@@ -13,6 +13,8 @@ You will also need to modify `index.html` to personalize the title, header and f
 
 Samples of Student Work
 -----------------------
+[Alica](http://aliciazz.github.io/OriginalDesign/)  
+[Teresa](http://unrealistic-dreamer.github.io/OriginalDesign/)  
 [Linda](http://wanglindal.github.io/OriginalDesign/)  
 [Anna](http://annaz8.github.io/OriginalDesign/)  
 [Andre](http://ardzejafyl.github.io/OriginalDesign/)  
