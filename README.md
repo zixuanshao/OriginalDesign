@@ -15,7 +15,7 @@ Samples of Student Work
 -----------------------
 [Linda](http://wanglindal.github.io/OriginalDesign/)  
 [Anna](http://annaz8.github.io/OriginalDesign/)  
-[Andrea](http://ardzejafyl.github.io/OriginalDesign/)  
+[Andre](http://ardzejafyl.github.io/OriginalDesign/)  
 [Kelly](http://kellyhuang21.github.io/OriginalDesign/)  
 [Helen](http://hezhang2.github.io/OriginalDesign/)  
 [Ivy](http://ivyla.github.io/OriginalDesign/)  
