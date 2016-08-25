@@ -13,6 +13,7 @@ You will also need to modify `index.html` to personalize the title, headline and
 
 Samples of Student Work
 -----------------------
+[Karen](https://sonokjw.github.io/OriginalDesign/)   
 [Jacky](http://jackyrobot.github.io/OriginalDesign/)  
 [Alica](http://aliciazz.github.io/OriginalDesign/)  
 [Teresa](http://unrealistic-dreamer.github.io/OriginalDesign/)  
