@@ -13,6 +13,13 @@ You will also need to modify `index.html` to personalize the title, headline and
 
 Samples of Student Work
 -----------------------
+[Jun](https://johyrao.github.io/OriginalDesign/)   
+[Kelly](https://kellyruan.github.io/OriginalDesign/)   
+[Samantha](https://sammirustia.github.io/OriginalDesign/)   
+[Mi-Ka](https://mikamarciales.github.io/OriginalDesign/)   
+[Mike](https://mimonokandilos.github.io/OriginalDesign/)   
+[Nghi](https://nagirokudo.github.io/OriginalDesign/)   
+[Michelle](https://miphung.github.io/OriginalDesign/)   
 [Erica](https://ericamalia.github.io/OriginalDesign/)   
 [Kenneth](https://kenpaso.github.io/OriginalDesign/)   
 [Wilson](https://wilsonh415.github.io/OriginalDesign/)   
@@ -22,6 +29,8 @@ Samples of Student Work
 [Michelle](https://michellec1998.github.io/OriginalDesign/)   
 [Karen](https://sonokjw.github.io/OriginalDesign/)   
 [Raymond](https://ngoraymond.github.io/OriginalDesign/)   
+[Colin](https://licolin4.github.io/OriginalDesign/)   
+[Emma](https://emmackenzie.github.io/OriginalDesign/)   
 [Juan](https://juan-hernandez7.github.io/OriginalDesign/)   
 [Erika](https://ekwkk.github.io/OriginalDesign/)   
 [Emily](https://emilyhasramen.github.io/OriginalDesign/)   
