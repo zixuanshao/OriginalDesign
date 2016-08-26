@@ -14,6 +14,7 @@ You will also need to modify `index.html` to personalize the title, headline and
 Samples of Student Work
 -----------------------
 [Tatiana](https://sonotatiana.github.io/OriginalDesign/)  
+[Silas](https://silascs.github.io/OriginalDesign/)  
 [Schuyler](https://skschur1.github.io/OriginalDesign/)   
 [Andrew](https://ansue1234.github.io/OriginalDesign/)   
 [Thanawat](https://thiskappaisgrey.github.io/OriginalDesign/index.html)   
