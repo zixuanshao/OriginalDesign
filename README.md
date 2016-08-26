@@ -27,6 +27,7 @@ Samples of Student Work
 [Eric](https://ersun1224.github.io/OriginalDesign/)   
 [Samantha](https://sammirustia.github.io/OriginalDesign/)   
 [Mi-Ka](https://mikamarciales.github.io/OriginalDesign/)   
+[Nicholas](https://woonicholas.github.io/OriginalDesign/)  
 [Mike](https://mimonokandilos.github.io/OriginalDesign/)   
 [Nghi](https://nagirokudo.github.io/OriginalDesign/)   
 [Michelle](https://miphung.github.io/OriginalDesign/)   
