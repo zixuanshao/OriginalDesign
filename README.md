@@ -19,6 +19,7 @@ Samples of Student Work
 [Andrew](https://ansue1234.github.io/OriginalDesign/)   
 [Thanawat](https://thiskappaisgrey.github.io/OriginalDesign/index.html)   
 [Ryan](https://avath.github.io/OriginalDesign/)   
+[Makoi](https://magacula1.github.io/OriginalDesign/)   
 [Aaron](https://aahuangithub.github.io/OriginalDesign/)   
 [Garvin](https://garvingit.github.io/OriginalDesign/)  
 [Michael](https://mipsim.github.io/OriginalDesign/)   
