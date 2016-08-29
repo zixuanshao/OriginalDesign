@@ -13,6 +13,12 @@ You will also need to modify `index.html` to personalize the title, headline and
 
 Samples of Student Work
 -----------------------
+[Sam](https://flukemeister28.github.io/OriginalDesign/)   
+[Clovis](https://clovisamelia.github.io/OriginalDesign/)   
+[Kyle](https://yachtmasterkyle.github.io/OriginalDesign/)   
+[Andrew](https://andrewmai123.github.io/OriginalDesign/)   
+[Kenny](https://kennyyu168.github.io/OriginalDesign/)   
+[Brandon](https://brandonchen114.github.io/OriginalDesign/)   
 [Tatiana](https://sonotatiana.github.io/OriginalDesign/)  
 [Vivian](https://viviaann.github.io/OriginalDesign/)   
 [Kirby](https://krbyktl.github.io/OriginalDesign/)   
