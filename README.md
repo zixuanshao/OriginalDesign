@@ -15,6 +15,7 @@ Samples of Student Work
 -----------------------
 [Steven](https://sjkchang.github.io/OriginalDesign/)   
 [Amanda](https://amkallenbach.github.io/OriginalDesign/)   
+[Zhenwen](https://1337elitehacker.github.io/OriginalDesign/)   
 [Jenny](https://jeyu21.github.io/OriginalDesign/)   
 [Kevin](https://kekuang2.github.io/OriginalDesign/)   
 [Heath](https://heathexer.github.io/OriginalDesign/)   
