@@ -13,6 +13,7 @@ You will also need to modify `index.html` to personalize the title, headline and
 
 Samples of Student Work
 -----------------------
+[Winfield](https://winfield101.github.io/OriginalDesign/)   
 [Kendra](https://pastalover45.github.io/OriginalDesign/)   
 [Wilson](https://wichen3.github.io/OriginalDesign/)   
 [Sam](https://flukemeister28.github.io/OriginalDesign/)   
