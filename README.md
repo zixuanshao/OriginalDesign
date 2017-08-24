@@ -1,15 +1,16 @@
 Original Design
 ===============
 
-This assignment is similar to the previous Sample Assignment. You may find the PowerPoint slides 72 to 143 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository.  
-
-Now, modify the Java code in the `OriginalDesign.pde` file to create your own design using the Processing graphics functions. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also
-define four functions:  
+In this assignment you will create a design of your own choosing. You may find the PowerPoint slides 1 to 128 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful. Your program should use a variety of the [Processing graphics functions](https://processing.org/reference/). You will also define four functions:  
 `void setup()`  
 `void draw()`  
-and at least two of your own 
+and at least two of your own. Scroll down to see links to samples of other students submissions for this assignment.
 
-You will also need to modify `index.html` to personalize the title, headline and footer. Have fun and be creative! Your design doesn't have to look like anyone else's. Click on the links below to see samples of other students work. Submit the link to your finished program in the drop box for this assignment.
+Posting your finished program to GitHub
+=======================================
+When you are finished, you will follow the instructions in either the [basic](https://github.com/APCSLowell/SampleAssignmentSimple) or [advanced workflow](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository.  
+
+Now, replace the Java code in the `OriginalDesign.pde` file with the code for your own design. You will also need to modify `index.html` to personalize the title, headline and footer. Have fun and be creative! Your design doesn't have to look like anyone else's. Submit the link to your finished program to google classroom.
 
 Samples of Student Work
 -----------------------
